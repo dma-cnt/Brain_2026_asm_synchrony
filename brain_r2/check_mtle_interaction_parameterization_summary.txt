@@ -1,0 +1,11 @@
+                                                      model                                              term  patients  rows      beta       se        p
+                      separate_subset_standardized_non_mtle                               synchrony_broadband        46 16553  0.002060 0.102502 0.983963
+                          separate_subset_standardized_mtle                               synchrony_broadband        21  6849 -0.468993 0.146122 0.001329
+                      separate_global_standardized_non_mtle                               synchrony_broadband        46 16553  0.004195 0.208705 0.983963
+                          separate_global_standardized_mtle                               synchrony_broadband        21  6849 -0.294164 0.091651 0.001329
+         pooled_global_sync_only_interaction_non_mtle_slope                               synchrony_broadband        67 23402 -0.041554 0.215200 0.846883
+             pooled_global_sync_only_interaction_difference                       synchrony_broadband:is_mtle        67 23402 -0.255990 0.232355 0.270582
+     pooled_global_sync_only_interaction_implied_mtle_slope synchrony_broadband + synchrony_broadband:is_mtle        67 23402 -0.297545 0.087888 0.000710
+    pooled_global_all_covariate_interactions_non_mtle_slope                               synchrony_broadband        67 23402  0.004195 0.208705 0.983963
+        pooled_global_all_covariate_interactions_difference                       synchrony_broadband:is_mtle        67 23402 -0.298359 0.227943 0.190561
+pooled_global_all_covariate_interactions_implied_mtle_slope synchrony_broadband + synchrony_broadband:is_mtle        67 23402 -0.294164 0.091651 0.001329

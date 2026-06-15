@@ -1,0 +1,8 @@
+Suggested Figure 2 legend note for the revised clinical exposure-state figure.
+
+ASM, anti-seizure medication. Panel A shows each patient's median synchrony during high and low medication exposure. Panel B shows the within-patient difference, calculated as low exposure minus high exposure. Positive values indicate higher synchrony during low medication exposure. Exact sign test, P = 0.007; Wilcoxon signed-rank test, P < 0.001. Panel C shows robustness analyses with displayed P-values from the two-sided Wilcoxon signed-rank test, using the following definitions:
+- Primary: low ASM load ≤50%, high ASM load ≥80%; exclude windows within 12 h of seizures.
+- Low ASM load ≤50%, high ASM load ≥80%; exclude windows within 1 h of seizures.
+- Low ASM load ≤50%, high ASM load ≥80%; no seizure-window exclusion.
+- Low ASM load ≤33%, high ASM load ≥67%; exclude windows within 12 h of seizures.
+- Low ASM load ≤25%, high ASM load ≥75%; exclude windows within 12 h of seizures.
